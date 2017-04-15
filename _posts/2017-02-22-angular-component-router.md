@@ -97,7 +97,7 @@ Our router setup isn't that useful at this point as it has no information about 
 
 #### RouterModule.forRoot
 
-The first of the static methods is `RouterModule.forRoot`, which we use when defining the root config for our application in our main module.
+The first testingf of the static methods is `RouterModule.forRoot`, which we use when defining the root config for our application in our main module.
 
 This gives our main module access to all the router directives (more on those coming up), as well as defining the main config. Let's have a look how we use the `forRoot` method to invoke the module:
 
